@@ -15,5 +15,4 @@ with if function; IF(Discounted Price < 200, "<₹200",
 6. i also calculated Discount percentage by applying if function; =If(discount percentage>0.5,1,0)
 # ANALYSIS TASK
 ##Total product= 1350
-#DASHBOARD SCREENSHOTS
 
