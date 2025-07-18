@@ -38,7 +38,7 @@ Each question is addressed using Pivot Tables, Calculated Columns, and Excel For
 
 
 # AMAZON DATA REVIEW
-## This project is detailed excel dashboard analysis of an e- commerce product dataset.It explore product rating, pricing patterns, discount and review from customer
+##This project is detailed excel dashboard analysis of an e- commerce product dataset.It explore product rating, pricing patterns, discount and review from customer
 # DATA SOURCE
 Digital skill Africa(DSA
 # STEPS
