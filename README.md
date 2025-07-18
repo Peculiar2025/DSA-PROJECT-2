@@ -1,8 +1,8 @@
-# 📊 Amazon Product Review Dashboard
+#  Amazon Product Review Dashboard
 
 A data analysis and visualization project to explore Amazon product reviews, pricing, discounts, and ratings using Excel and Power BI.
 
-## 🔍 Project Overview
+##  Project Overview
 
 This dashboard answers critical business questions such as:
 - What is the average discount percentage by product category?
@@ -11,13 +11,13 @@ This dashboard answers critical business questions such as:
 - What is the total potential revenue per category?
 - Which products have fewer than 1,000 reviews?
 
-## 🧰 Tools Used
+##  Tools Used
 
 - Microsoft Excel (for data cleaning, pivot tables, helper columns)
 - Power BI (for dashboard design & visualization)
-- GitHub (for version control and documentation)
 
-## 📊 Key Business Questions Answered
+
+##  Key Business Questions Answered
 
 1. Average Discount Percentage by Product Category  
 2. Total Number of Products per Category  
@@ -36,21 +36,9 @@ This dashboard answers critical business questions such as:
 
 Each question is addressed using Pivot Tables, Calculated Columns, and Excel Formulas.
 
-## 📁 Folder Structure
-
-- `/data`: Contains the cleaned Excel dataset.
-- `/dashboard`: Contains the Power BI file and exported dashboard images.
-- `/docs`: Business questions with formulas and logic.
-- `/assets`: Icons, images, or other visuals used.
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/amazon-product-review-dashboard.git
 
 # AMAZON DATA REVIEW
-## This project is detailed excel dashboard analysis of an e- commerce product dataset.It explore product rating, pricing patterns, discount and review from customer across various products.
+## This project is detailed excel dashboard analysis of an e- commerce product dataset.It explore product rating, pricing patterns, discount and review from customer
 # DATA SOURCE
 Digital skill Africa(DSA
 # STEPS
