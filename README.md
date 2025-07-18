@@ -64,3 +64,6 @@ with if function; IF(Discounted Price < 200, "<₹200",
 ![CHART 2](https://github.com/user-attachments/assets/42312a47-105a-45a6-b578-510c92fe0a7b)
 
 ![CHART 1](https://github.com/user-attachments/assets/eab49d7c-60a0-43de-9a50-9d09363dee70)
+
+# ANALYST 
+TEMITOPE AWOYINKA 
