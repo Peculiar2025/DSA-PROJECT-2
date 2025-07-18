@@ -38,12 +38,12 @@ Each question is addressed using Pivot Tables, Calculated Columns, and Excel For
 
 
 # AMAZON DATA REVIEW
-##This project is detailed excel dashboard analysis of an e- commerce product dataset.It explore product rating, pricing patterns, discount and review from customer
+This project is detailed excel dashboard analysis of an e- commerce product dataset.It explore product rating, pricing patterns, discount and review from customer
 # DATA SOURCE
 Digital skill Africa(DSA
 # STEPS
-##DATA CLEANING ACTION
-##
+DATA CLEANING ACTION
+
 1. Standardized Product Name with =Left function and i created a helper column
 2. Proper case : I used proper function to make the name to appear well by using another helper column
 3. Category splitting was done with Delimiter and i created extra 4 column to split the product into category
