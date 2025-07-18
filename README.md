@@ -1,3 +1,54 @@
+# 📊 Amazon Product Review Dashboard
+
+A data analysis and visualization project to explore Amazon product reviews, pricing, discounts, and ratings using Excel and Power BI.
+
+## 🔍 Project Overview
+
+This dashboard answers critical business questions such as:
+- What is the average discount percentage by product category?
+- Which products have the highest average ratings?
+- How does actual price compare to discounted price?
+- What is the total potential revenue per category?
+- Which products have fewer than 1,000 reviews?
+
+## 🧰 Tools Used
+
+- Microsoft Excel (for data cleaning, pivot tables, helper columns)
+- Power BI (for dashboard design & visualization)
+- GitHub (for version control and documentation)
+
+## 📊 Key Business Questions Answered
+
+1. Average Discount Percentage by Product Category  
+2. Total Number of Products per Category  
+3. Total Number of Reviews per Category  
+4. Products with the Highest Average Ratings  
+5. Average Actual Price vs Discounted Price by Category  
+6. Products with the Highest Number of Reviews  
+7. Products with Discount ≥ 50%  
+8. Distribution of Product Ratings  
+9. Total Potential Revenue by Category  
+10. Unique Products per Price Range Bucket  
+11. Relationship Between Rating and Discount Level  
+12. Products with Fewer Than 1,000 Reviews  
+13. Categories with Highest Discounts  
+14. Top 5 Products Based on Rating × Review Count
+
+Each question is addressed using Pivot Tables, Calculated Columns, and Excel Formulas.
+
+## 📁 Folder Structure
+
+- `/data`: Contains the cleaned Excel dataset.
+- `/dashboard`: Contains the Power BI file and exported dashboard images.
+- `/docs`: Business questions with formulas and logic.
+- `/assets`: Icons, images, or other visuals used.
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/amazon-product-review-dashboard.git
+
 # AMAZON DATA REVIEW
 ## This project is detailed excel dashboard analysis of an e- commerce product dataset.It explore product rating, pricing patterns, discount and review from customer across various products.
 # DATA SOURCE
